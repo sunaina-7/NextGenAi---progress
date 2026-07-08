@@ -41,9 +41,19 @@
 ---
 
 ## Day 05 – Data Visualization
+| **Section** | **Description**  |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Learning Objective** | Learn feature engineering techniques to transform raw data into meaningful features for improving machine learning model performance. 
+| **Topics Covered**     | Feature Creation, Feature Transformation, Feature Scaling, Feature Encoding, Feature Binning, Log Transformation, StandardScaler, MinMaxScaler, Label Encoding, One-Hot Encoding.   |
+| **Practical Work**     | Created new features from existing data, applied data transformations, performed feature scaling using StandardScaler and MinMaxScaler, encoded categorical variables using One-Hot and Label Encoding, and categorized numerical data using feature binning. |
 
-| **Section** | **Description** |
-|--------------|-----------------|
-| **Learning Objective** | Learn to visualize data for better understanding and decision-making. |
-| **Topics Covered** | Matplotlib, Seaborn, Histogram, Box Plot, Bar Chart, Line Chart, Scatter Plot, Heatmap, Pair Plot, Violin Plot, KDE Plot. |
-| **Practical Work** | Created visualizations using Matplotlib and Seaborn to analyze distributions, trends, comparisons, and correlations in datasets. |
+---
+
+## Day 06 – Principal Component Analysis (PCA)
+| **Section** | **Description** 
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Learning Objective** | Learn the fundamentals of Principal Component Analysis (PCA) and understand how dimensionality reduction improves data analysis and machine learning performance. 
+| **Topics Covered**     | Dimensionality Reduction, Principal Component Analysis (PCA), Feature Scaling, StandardScaler, Principal Components, Explained Variance Ratio, Cumulative Variance, PCA Visualization, Real-World Applications of PCA. 
+| **Practical Work**     | Standardized dataset features using StandardScaler, applied PCA to reduce feature dimensions, analyzed explained variance, visualized principal components using scatter plots, and explored real-world applications of PCA. |
+
+
