@@ -50,6 +50,15 @@
 ---
 
 ## Day 06 – Principal Component Analysis (PCA)
+| **Section** | **Description** |
+| ----------- | ------------- |
+| **Learning Objective** | Learn feature engineering techniques to transform raw data into meaningful features for improving machine learning model performance. |
+| **Topics Covered**     | Feature Creation, Feature Transformation, Feature Scaling, Feature Encoding, Feature Binning, Log Transformation, StandardScaler, MinMaxScaler, Label Encoding, One-Hot Encoding. |
+| **Practical Work**     | Created new features from existing data, applied data transformations, performed feature scaling using StandardScaler and MinMaxScaler, encoded categorical variables using One-Hot and Label Encoding, and categorized numerical data using feature binning. |
+
+---
+
+## Day 07 – Principal Component Analysis (PCA)
 | **Section** | **Description** 
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Learning Objective** | Learn the fundamentals of Principal Component Analysis (PCA) and understand how dimensionality reduction improves data analysis and machine learning performance. 
