@@ -30,7 +30,17 @@
 
 ---
 
-## Day 04 – Data Visualization
+## Day 04 – Exploratory Data Analysis (EDA)
+
+| Section | Description |
+|--------------|-----------------|
+| **Learning Objective** | Learn exploratory data analysis techniques to understand datasets and extract meaningful insights using Pandas. |
+| **Topics Covered** | Dataset Exploration, Univariate Analysis, Bivariate Analysis, Multivariate Analysis, GroupBy, CrossTab, Summary Statistics, Correlation Analysis. |
+| **Practical Work** | Loaded and explored a student dataset, analyzed categorical and numerical features, generated statistical summaries, performed univariate, bivariate, and multivariate analysis, and examined relationships between variables using GroupBy, CrossTab, and correlation methods. |
+
+---
+
+## Day 05 – Data Visualization
 
 | **Section** | **Description** |
 |--------------|-----------------|
