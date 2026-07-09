@@ -65,4 +65,13 @@
 | **Topics Covered**     | Dimensionality Reduction, Principal Component Analysis (PCA), Feature Scaling, StandardScaler, Principal Components, Explained Variance Ratio, Cumulative Variance, PCA Visualization, Real-World Applications of PCA. 
 | **Practical Work**     | Standardized dataset features using StandardScaler, applied PCA to reduce feature dimensions, analyzed explained variance, visualized principal components using scatter plots, and explored real-world applications of PCA. |
 
+---
+
+## Day 07 – Handling Imbalanced Data
+| **Section** | **Description** |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Learning Objective** | Learn techniques to identify and handle imbalanced datasets to improve machine learning model performance and prediction accuracy.|
+| **Topics Covered**     | Class Imbalance, Label Encoding, Train-Test Split, Random Oversampling, Random Undersampling, SMOTE, Tomek Links, ADASYN, SMOTE + Tomek Links, Class Distribution Visualization.  |
+| **Practical Work**     | Analyzed class distribution in a dataset, encoded target labels, visualized class imbalance, applied Random Oversampling, Random Undersampling, SMOTE, Tomek Links, ADASYN, and SMOTE + Tomek Links to balance the dataset and compare their effects. |
+
 
