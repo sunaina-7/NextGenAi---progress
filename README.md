@@ -74,4 +74,13 @@
 | **Topics Covered**     | Class Imbalance, Label Encoding, Train-Test Split, Random Oversampling, Random Undersampling, SMOTE, Tomek Links, ADASYN, SMOTE + Tomek Links, Class Distribution Visualization.  |
 | **Practical Work**     | Analyzed class distribution in a dataset, encoded target labels, visualized class imbalance, applied Random Oversampling, Random Undersampling, SMOTE, Tomek Links, ADASYN, and SMOTE + Tomek Links to balance the dataset and compare their effects. |
 
+---
+## Day 09 – Pattern Detection & Anomaly Identification
+| **Section**  | **Description** 
+| --------- | -----------------|
+| **Learning Objective** | Learn techniques to identify hidden patterns, trends, and anomalies in datasets using statistical methods, visualizations, and clustering.|
+| **Topics Covered**     | Pattern Detection, GroupBy Analysis, Correlation Analysis, Scatter Plots, Z-Score Method, Anomaly Detection, Pivot Tables, Clustering, Data Visualization.|
+| **Practical Work** | Explored student data to identify patterns using GroupBy, Pivot Tables, and scatter plots, detected anomalies using the Z-score method, analyzed correlations, and applied clustering techniques to discover similar groups of data points. |
+
+
 
