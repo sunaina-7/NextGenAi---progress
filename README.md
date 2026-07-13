@@ -1,3 +1,4 @@
+
 # NextGenAI Training Diary
 
 ## Day 01 – Introduction to Data & AI
@@ -81,6 +82,14 @@
 | **Learning Objective** | Learn techniques to identify hidden patterns, trends, and anomalies in datasets using statistical methods, visualizations, and clustering.|
 | **Topics Covered**     | Pattern Detection, GroupBy Analysis, Correlation Analysis, Scatter Plots, Z-Score Method, Anomaly Detection, Pivot Tables, Clustering, Data Visualization.|
 | **Practical Work** | Explored student data to identify patterns using GroupBy, Pivot Tables, and scatter plots, detected anomalies using the Z-score method, analyzed correlations, and applied clustering techniques to discover similar groups of data points. |
+
+---
+## Day 010 – Automated Exploratory Data Analysis (Auto-EDA)
+| **Section**   | **Description** |
+| --------- | ------------------ |
+| **Learning Objective** | Learn how to automate exploratory data analysis using Python libraries to generate comprehensive data insights and visual reports efficiently. |
+| **Topics Covered**     | Automated EDA, Sweetviz, ydata-profiling (Pandas Profiling), Data Overview, Missing Value Analysis, Feature Distributions, Correlation Analysis, Data Visualization, Automated Report Generation.  |
+| **Practical Work**     | Performed automated exploratory data analysis using Python Auto-EDA tools, generated interactive profiling reports, analyzed missing values, feature distributions, correlations, and dataset statistics, and compared insights produced by different Auto-EDA libraries. |
 
 
 
