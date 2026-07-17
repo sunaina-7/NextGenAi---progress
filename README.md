@@ -68,7 +68,7 @@
 
 ---
 
-## Day 07 – Handling Imbalanced Data
+## Day 08 – Handling Imbalanced Data
 | **Section** | **Description** |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Learning Objective** | Learn techniques to identify and handle imbalanced datasets to improve machine learning model performance and prediction accuracy.|
@@ -90,6 +90,33 @@
 | **Learning Objective** | Learn how to automate exploratory data analysis using Python libraries to generate comprehensive data insights and visual reports efficiently. |
 | **Topics Covered**     | Automated EDA, Sweetviz, ydata-profiling (Pandas Profiling), Data Overview, Missing Value Analysis, Feature Distributions, Correlation Analysis, Data Visualization, Automated Report Generation.  |
 | **Practical Work**     | Performed automated exploratory data analysis using Python Auto-EDA tools, generated interactive profiling reports, analyzed missing values, feature distributions, correlations, and dataset statistics, and compared insights produced by different Auto-EDA libraries. |
+
+---
+
+## Day 11 – Auto-EDA Tools & Interactive Data Profiling
+| **Section**  | **Description** |  
+| -------------| --------------- |
+| **Learning Objective** | Learn to perform automated exploratory data analysis using interactive profiling tools for faster dataset understanding and visualization.|
+| **Topics Covered**     | ydata-profiling, Sweetviz, D-Tale, Automated Data Profiling, Interactive Data Exploration, Comparative Analysis, HTML Report Generation, Dataset Visualization. |
+| **Practical Work**     | Generated automated profiling reports using **ydata-profiling**, analyzed datasets with **Sweetviz**, compared training and testing datasets, and explored data interactively using **D-Tale** for efficient exploratory data analysis. |
+
+---
+
+## Day 12 – Project Evaluation & Mentor Interaction
+| **Section**  | **Description**  |
+| --------------| ---------------- |
+| **Learning Objective** | Evaluate the current project progress, receive expert feedback, and plan the next phase of development. |
+| **Topics Covered**     | Project Review, Progress Evaluation, Project Title Finalization, Mentor Feedback, Issue Resolution, Development Roadmap. |
+| **Practical Work**     | Presented the current status of the project to the training coordinator, discussed the project title and implementation approach, clarified technical challenges, received improvement suggestions, and planned the upcoming development tasks. |
+
+---
+## Day 13 – Random Forest Classification
+| **Section**  | **Description** |
+| ------------- | ---------------- |
+| **Learning Objective** | Learn the Random Forest algorithm and understand how ensemble learning improves classification accuracy and reduces overfitting.|
+| **Topics Covered**     | Ensemble Learning, Random Forest Classifier, Decision Trees, Model Training, Prediction, Hyperparameters, Model Evaluation, Classification Metrics. |
+| **Practical Work**     | Built and trained a Random Forest Classifier using Scikit-learn, performed predictions on test data, evaluated the model using classification metrics, and analyzed the effectiveness of ensemble learning for classification tasks. |
+
 
 
 
