@@ -117,6 +117,24 @@
 | **Topics Covered**     | Ensemble Learning, Random Forest Classifier, Decision Trees, Model Training, Prediction, Hyperparameters, Model Evaluation, Classification Metrics. |
 | **Practical Work**     | Built and trained a Random Forest Classifier using Scikit-learn, performed predictions on test data, evaluated the model using classification metrics, and analyzed the effectiveness of ensemble learning for classification tasks. |
 
+---
+
+## Day 14 – Linear Regression & Regularization Techniques
+| **Section** | **Description** |
+| ------------| --------------- |
+| **Learning Objective** | Learn Linear Regression and understand how regularization techniques improve model performance and reduce overfitting.|
+| **Topics Covered**     | Linear Regression, Ridge Regression, Lasso Regression, Train-Test Split, Model Training, Prediction, R² Score, Mean Squared Error (MSE), Model Evaluation.|
+| **Practical Work**     | Built Linear, Ridge, and Lasso Regression models using Scikit-learn, trained and evaluated them on a dataset, compared their performance using R² Score and Mean Squared Error, and performed predictions on new input data. |
+
+---
+
+## Day 16 – Feature Selection Techniques
+| **Section** | **Description** |
+| -------------| -------------- |
+| **Learning Objective** | Learn feature selection techniques to identify the most relevant features, improve model performance, and reduce overfitting. |
+| **Topics Covered**     | Feature Selection, Filter Methods, Variance Threshold, Correlation Analysis, Chi-Square Test, Mutual Information, Feature Importance, Data Preprocessing.       |
+| **Practical Work**     | Applied Variance Threshold to remove low-variance features, analyzed feature correlations using heatmaps, performed Chi-Square and Mutual Information tests to rank feature importance, and selected the most relevant features for machine learning model development. |
+
 
 
 
