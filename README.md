@@ -50,7 +50,14 @@
 
 ---
 
-## Day 06 – Principal Component Analysis (PCA)
+## Day 06 – Feature Engineering Fundamentals
+| **Section**  | **Description**  |
+| -------------- | ----------------|
+| **Learning Objective** | Learn feature engineering techniques to create, transform, scale, and encode features for improving machine learning model performance.|
+| **Topics Covered**     | Feature Engineering, Feature Selection, Feature Extraction, Feature Transformation, Feature Scaling, Encoding Categorical Variables, Min-Max Scaling, Standard Scaling, Label Encoding, One-Hot Encoding, Ordinal Encoding.|
+| **Practical Work**     | Explored feature engineering techniques by selecting relevant features, extracting new features, applying feature transformation and scaling methods, and converting categorical variables into numerical form using different encoding techniques for machine learning applications. |
+
+## Day 07– Principal Component Analysis (PCA)
 | **Section** | **Description** |
 | ----------- | ------------- |
 | **Learning Objective** | Learn feature engineering techniques to transform raw data into meaningful features for improving machine learning model performance. |
@@ -59,7 +66,7 @@
 
 ---
 
-## Day 07 – Principal Component Analysis (PCA)
+## Day 08 – Principal Component Analysis (PCA)
 | **Section** | **Description** 
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Learning Objective** | Learn the fundamentals of Principal Component Analysis (PCA) and understand how dimensionality reduction improves data analysis and machine learning performance. 
@@ -68,7 +75,7 @@
 
 ---
 
-## Day 08 – Handling Imbalanced Data
+## Day 09 – Handling Imbalanced Data
 | **Section** | **Description** |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Learning Objective** | Learn techniques to identify and handle imbalanced datasets to improve machine learning model performance and prediction accuracy.|
@@ -76,7 +83,7 @@
 | **Practical Work**     | Analyzed class distribution in a dataset, encoded target labels, visualized class imbalance, applied Random Oversampling, Random Undersampling, SMOTE, Tomek Links, ADASYN, and SMOTE + Tomek Links to balance the dataset and compare their effects. |
 
 ---
-## Day 09 – Pattern Detection & Anomaly Identification
+## Day 010 – Pattern Detection & Anomaly Identification
 | **Section**  | **Description** 
 | --------- | -----------------|
 | **Learning Objective** | Learn techniques to identify hidden patterns, trends, and anomalies in datasets using statistical methods, visualizations, and clustering.|
@@ -84,7 +91,7 @@
 | **Practical Work** | Explored student data to identify patterns using GroupBy, Pivot Tables, and scatter plots, detected anomalies using the Z-score method, analyzed correlations, and applied clustering techniques to discover similar groups of data points. |
 
 ---
-## Day 010 – Automated Exploratory Data Analysis (Auto-EDA)
+## Day 11 – Automated Exploratory Data Analysis (Auto-EDA)
 | **Section**   | **Description** |
 | --------- | ------------------ |
 | **Learning Objective** | Learn how to automate exploratory data analysis using Python libraries to generate comprehensive data insights and visual reports efficiently. |
@@ -93,16 +100,16 @@
 
 ---
 
-## Day 11 – Auto-EDA Tools & Interactive Data Profiling
-| **Section**  | **Description** |  
-| -------------| --------------- |
-| **Learning Objective** | Learn to perform automated exploratory data analysis using interactive profiling tools for faster dataset understanding and visualization.|
-| **Topics Covered**     | ydata-profiling, Sweetviz, D-Tale, Automated Data Profiling, Interactive Data Exploration, Comparative Analysis, HTML Report Generation, Dataset Visualization. |
-| **Practical Work**     | Generated automated profiling reports using **ydata-profiling**, analyzed datasets with **Sweetviz**, compared training and testing datasets, and explored data interactively using **D-Tale** for efficient exploratory data analysis. |
+## Day 12 – K-Nearest Neighbors (KNN) & Support Vector Machine (SVM)
+| **Section**  | **Description**|
+| ------------| -----------------|
+| **Learning Objective** | Learn the fundamentals of K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) algorithms and understand their applications in supervised machine learning. |
+| **Topics Covered**     | K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Classification, Regression, Distance Metrics, Hyperplane, Support Vectors, Applications of KNN & SVM. |
+| **Practical Work**     | Explored the working principles of KNN and SVM algorithms, understood their advantages and limitations, analyzed their real-world applications, and learned how these supervised learning techniques are used for classification and regression tasks. |
 
 ---
 
-## Day 12 – Project Evaluation & Mentor Interaction
+## Day 13 – Project Evaluation & Mentor Interaction
 | **Section**  | **Description**  |
 | --------------| ---------------- |
 | **Learning Objective** | Evaluate the current project progress, receive expert feedback, and plan the next phase of development. |
@@ -110,7 +117,7 @@
 | **Practical Work**     | Presented the current status of the project to the training coordinator, discussed the project title and implementation approach, clarified technical challenges, received improvement suggestions, and planned the upcoming development tasks. |
 
 ---
-## Day 13 – Random Forest Classification
+## Day 14 – Random Forest Classification
 | **Section**  | **Description** |
 | ------------- | ---------------- |
 | **Learning Objective** | Learn the Random Forest algorithm and understand how ensemble learning improves classification accuracy and reduces overfitting.|
@@ -119,7 +126,7 @@
 
 ---
 
-## Day 14 – Linear Regression & Regularization Techniques
+## Day 15 – Linear Regression & Regularization Techniques
 | **Section** | **Description** |
 | ------------| --------------- |
 | **Learning Objective** | Learn Linear Regression and understand how regularization techniques improve model performance and reduce overfitting.|
@@ -128,7 +135,7 @@
 
 ---
 
-## Day 15 – Feature Selection Techniques
+## Day 16 – Feature Selection Techniques
 | **Section** | **Description** |
 | -------------| -------------- |
 | **Learning Objective** | Learn feature selection techniques to identify the most relevant features, improve model performance, and reduce overfitting. |
@@ -137,7 +144,7 @@
 
 ---
 
-## Day 16 – Wrapper Methods for Feature Selection
+## Day 17 – Wrapper Methods for Feature Selection
 | **Section** | **Description** |
 | ------------ | ----------------|
 | **Learning Objective** | Learn wrapper-based feature selection techniques to identify the optimal subset of features by evaluating model performance. |
@@ -146,7 +153,7 @@
 
 ---
 
-## Day 17 – Hyperparameter Tuning & Model Optimization
+## Day 18 – Hyperparameter Tuning & Model Optimization
 
 | **Section** | **Description** |
 | --------------| --------------|
