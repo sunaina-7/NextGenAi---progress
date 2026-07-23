@@ -1,5 +1,28 @@
+#  AI & Data Exploration Training Repository
 
-# NextGenAI Training Diary
+###  Machine Learning • Generative AI • Data Exploration
+
+> *A structured record of my 30-day learning journey, practical exercises, projects, and key concepts explored during the NextGenAI Training Program.*
+##  Trainee Information
+
+| Details | Information |
+|---------|-------------|
+| Name | **Sunaina** |
+| URN | **2435193** |
+| College | **Guru Nanak Dev Engineering College, Ludhiana** |
+| Branch | **Computer Science and Engineering** |
+| Year | **Third Year** |
+| Section | **CSE (E2)** |
+| Program | **NextGenAI Training** |
+| Repository | **AI & Data Exploration Training Repository** |
+
+---
+
+## About This Repository
+
+ The **AI & Data Exploration Training Repository** is a dedicated repository created to document my learning journey during the **NextGenAI Training Program**. It serves as a structured collection of the concepts, practical implementations, assignments, and projects completed throughout the training. This repository reflects my continuous progress in developing technical skills in Artificial Intelligence, Data Exploration, Machine Learning, and Generative AI.
+
+---
 
 ## Day 01 – Introduction to Data & AI
 
