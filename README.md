@@ -128,12 +128,31 @@
 
 ---
 
-## Day 16 – Feature Selection Techniques
+## Day 15 – Feature Selection Techniques
 | **Section** | **Description** |
 | -------------| -------------- |
 | **Learning Objective** | Learn feature selection techniques to identify the most relevant features, improve model performance, and reduce overfitting. |
 | **Topics Covered**     | Feature Selection, Filter Methods, Variance Threshold, Correlation Analysis, Chi-Square Test, Mutual Information, Feature Importance, Data Preprocessing.       |
 | **Practical Work**     | Applied Variance Threshold to remove low-variance features, analyzed feature correlations using heatmaps, performed Chi-Square and Mutual Information tests to rank feature importance, and selected the most relevant features for machine learning model development. |
+
+---
+
+## Day 16 – Wrapper Methods for Feature Selection
+| **Section** | **Description** |
+| ------------ | ----------------|
+| **Learning Objective** | Learn wrapper-based feature selection techniques to identify the optimal subset of features by evaluating model performance. |
+| **Topics Covered**     | Wrapper Methods, Forward Selection, Backward Elimination, Recursive Feature Elimination (RFE), Logistic Regression, Decision Tree Classifier, Sequential Feature Selection, Model Evaluation.|
+| **Practical Work**     | Applied Forward Selection and Backward Elimination using Sequential Feature Selector, implemented Recursive Feature Elimination (RFE), compared selected feature subsets using Logistic Regression and Decision Tree models, and identified the most relevant features for improving classification performance. |
+
+---
+
+## Day 17 – Hyperparameter Tuning & Model Optimization
+
+| **Section** | **Description** |
+| --------------| --------------|
+| **Learning Objective** | Learn hyperparameter tuning techniques to optimize machine learning models and improve predictive performance.    |
+| **Topics Covered**   | Hyperparameters vs Parameters, GridSearchCV, RandomizedSearchCV, Decision Tree Classifier, Random Forest Classifier, Cross-Validation, Model Optimization, Accuracy Evaluation. |
+| **Practical Work**     | Trained Decision Tree and Random Forest models, applied **GridSearchCV** and **RandomizedSearchCV** to identify the best hyperparameter combinations, evaluated model performance using cross-validation, and compared optimized models based on accuracy scores. |
 
 
 
